@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">snipper</string>
+
+    <string-array name="names">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Gujarati</item>
+        <item>French</item>
+    </string-array>
+
+</resources>
